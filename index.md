@@ -17,6 +17,6 @@ Hello world! &#128525;
 
 ```
 #Affiliation:
-#Office: ETRI 7-563, 218, Gajeong-ro, Yuseong-gu, Daejeon, Republic of Korea
+
 Email: minjoon.sohn@gmail.com
 ```
