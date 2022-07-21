@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My photo gallery
-subtitle: Artificial Intelligence Research Laboratory, ETRI
+subtitle: Cool photos
 cover-img: /assets/img/itu-mjsohn.jpg
 ---
 
