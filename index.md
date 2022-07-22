@@ -2,7 +2,7 @@
 layout: page
 title: About myself
 subtitle: MJ Sohn
-cover-img: /assets/img/itu-mjsohn.jpg
+cover-img: /assets/img/cool photo.jpeg
 ---
 
 <br/>
