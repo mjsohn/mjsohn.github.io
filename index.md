@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My photo gallery
-subtitle: Cool photos
+title: About myself
+subtitle: MJ Sohn
 cover-img: /assets/img/itu-mjsohn.jpg
 ---
 
@@ -9,7 +9,7 @@ cover-img: /assets/img/itu-mjsohn.jpg
 
 ## About me
 
-**mjsohn** is a photographer
+**mjsohn**
 
 Hello world! &#128525;
 
